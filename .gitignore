@@ -22,3 +22,6 @@ gen
 dist
 coverage
 node_modules
+
+# Sql
+sql
